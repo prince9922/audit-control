@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+<html>
+<head>
+<style >
+.{
+}
+.table{
+
+background-color:blue;
+width:300px;
+}
+input[type=text],input[type=password] {
+  width: 300px;
+
+}
+.button {
+    background-color: red;
+    color: black;
+    padding: 14px 0px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+height:15%;
+
+}
+body{
+   
+  top: 0; 
+  left: 0; 
+	background-image: url("porche.jpg");
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+   
+</style>
+</head>
+</html>

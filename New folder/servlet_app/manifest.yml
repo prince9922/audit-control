@@ -1,0 +1,8 @@
+---
+applications:
+- name: servlet_app1
+  memory: 512M
+  host: servlet_app1
+  domain: mybluemix.net
+  services:
+  - ClearDB Managed MySQL Database-si
